@@ -1,1 +1,1 @@
-jungju$ vagrant package --base test1
+vagrant vagrant --base vagrant

@@ -1,1 +1,1 @@
-vagrant vagrant --base vagrant
+vagrant package --base vagrant --output package.box
